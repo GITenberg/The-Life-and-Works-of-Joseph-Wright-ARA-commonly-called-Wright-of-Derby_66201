@@ -1,0 +1,34 @@
+_repo: The-Life-and-Works-of-Joseph-Wright-ARA-commonly-called-Wright-of-Derby_66201
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Monkhouse, W. Cosmo (William Cosmo)
+    aliases:
+    - Monkhouse, Cosmo
+    - Monkhouse, William Cosmo
+    birthdate: 1840
+    deathdate: 1901
+    gutenberg_agent_id: '40869'
+    url: http://www.gutenberg.org/2009/agents/40869
+    wikipedia: http://en.wikipedia.org/wiki/William_Cosmo_Monkhouse
+  illustrator:
+    agent_name: Haden, F. Seymour
+    gutenberg_agent_id: '53680'
+    url: http://www.gutenberg.org/2009/agents/53680
+creator:
+  author:
+    agent_name: Bemrose, William
+    gutenberg_agent_id: '53679'
+    url: http://www.gutenberg.org/2009/agents/53679
+description: ''
+gutenberg_issued: '2021-09-01'
+identifiers:
+  gutenberg: '66201'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Life and Works of Joseph Wright, A.R.A, commonly called "Wright of Derby"
+url: http://www.gutenberg.org/ebooks/66201
