@@ -1,5 +1,5 @@
 _repo: The-Life-and-Works-of-Joseph-Wright-ARA-commonly-called-Wright-of-Derby_66201
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Monkhouse, W. Cosmo (William Cosmo)
@@ -15,12 +15,17 @@ contributor:
     agent_name: Haden, F. Seymour
     gutenberg_agent_id: '53680'
     url: http://www.gutenberg.org/2009/agents/53680
+covers:
+- cover_type: archival
+  image_path: 66201-h/images/cover.jpg
 creator:
   author:
     agent_name: Bemrose, William
     gutenberg_agent_id: '53679'
     url: http://www.gutenberg.org/2009/agents/53679
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66201#The-Life-and-Works-of-Joseph-Wright-ARA-commonly-called-Wright-of-Derby
 gutenberg_issued: '2021-09-01'
 identifiers:
   gutenberg: '66201'
